@@ -1,0 +1,12 @@
+### vim's
+
+*.swp
+
+### tar's
+
+*.tar.xz
+*.tar.gz
+
+### pkg
+
+pkg/
