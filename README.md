@@ -3,7 +3,7 @@ arch-dwm
 
 My configuration of **dwm**.
 
-##### Usage:
+#### Usage:
 
 make edits to config.h / dwm.c
 
