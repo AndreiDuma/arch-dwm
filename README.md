@@ -25,3 +25,11 @@ Compile with:
 .. and add in .xinitrc:
 
     path/to/dwm-status &
+
+#### Or, alternatively, use the provided setut-status.sh:
+
+    ./setup-status.sh
+
+.. and add in .xinitrc only:
+
+    dwm-status &
