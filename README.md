@@ -4,11 +4,13 @@ arch-dwm
 My configuration of **dwm**.
 
 ##### Usage:
-make edits to config.h / dwm.c
-package with pack.sh
+
+1. make edits to config.h / dwm.c
+
+2. package with pack.sh
 
     $ ./pack.sh
 
-install with install.sh (run as root)
+3. install with install.sh (run as root)
 
     # ./install.sh
